@@ -12,3 +12,5 @@ This is a responsive sliding signin and login template programmed with html, css
 - Codehal tutorial: https://youtu.be/Z_AbWH-Vyl8?si=xLTHX8g8Fit3IB0Z
 
 ## Images
+- Login Desktop View
+![](images/login-desktop.png)
