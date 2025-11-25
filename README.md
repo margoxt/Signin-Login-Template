@@ -19,7 +19,9 @@ This is a responsive sliding signin and login template programmed with html, css
 ![](images/register-desktop.png)
 
 - Login Mobile View
+  
 ![](images/login-mobile.png)
 
 - Register Mobile View
+  
 ![](images/register-mobile.png)
