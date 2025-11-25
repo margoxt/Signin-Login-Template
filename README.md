@@ -14,3 +14,12 @@ This is a responsive sliding signin and login template programmed with html, css
 ## Images
 - Login Desktop View
 ![](images/login-desktop.png)
+
+-Login Mobile View
+![](images/login-mobile.png)
+
+- Register Desktop View
+![](images/register-desktop.png)
+
+-Register Mobile View
+![](images/register-mobile.png)
