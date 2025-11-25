@@ -1,7 +1,3 @@
-Installed Package:
-- npm install bootstrap
-
-
 RESOURCES:
 
 * Google Icons:
@@ -9,3 +5,7 @@ RESOURCES:
 
 * Font Awesome
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+
+DESIGN REFERENCE:
+* Codehal: https://youtu.be/Z_AbWH-Vyl8?si=xLTHX8g8Fit3IB0Z
